@@ -68,7 +68,7 @@
 ## 📆 시기 
 - 프로젝트 진행 기간<br/>
   - 2024.2 ~ 2025.2<br/>
-<img src="https://github.com/user-attachments/assets/c97ee190-d8ff-4795-a4ba-21a30a432ba5" alt="앱 아이콘" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/56363232-0915-4f83-a310-47ff2599d80b" alt="앱 아이콘" width="100" height="100">
 
 
 
