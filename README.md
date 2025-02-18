@@ -55,7 +55,7 @@
 
 ## 🗺️ ERD
 
-<img src= "https://github.com/user-attachments/assets/4cdb7ffc-8d51-4241-a069-87954e2f5dd1" alt="ERD" width="600" height="400">
+<img src= "https://github.com/user-attachments/assets/4a83d6bd-acf3-489e-9da5-85ae32853024" alt="ERD" width="600" height="400">
 
 
 ## 💁‍♂️ 프로젝트 팀원
