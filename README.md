@@ -42,12 +42,12 @@
 
 ## 💻어플 미리보기
 
-<img src="https://github.com/user-attachments/assets/e9566c2e-3630-4609-a512-2ca9bd919ec7" alt="어플 스크린샷" width="240" height="510">
-<img src="https://github.com/user-attachments/assets/9187648a-b938-4f12-b97b-f26cf5d5ed0a" alt="어플 스크린샷" width="240" height="510">
-<img src="https://github.com/user-attachments/assets/82c00b88-c423-4920-863f-a3652e7637be" alt="어플 스크린샷" width="240" height="510">
-<img src="https://github.com/user-attachments/assets/b994ba3d-31f6-4ef3-8be5-2769e701dfbd" alt="어플 스크린샷" width="240" height="510">
-<img src="https://github.com/user-attachments/assets/cb098cc5-61ea-43c5-bf68-9708e539ab95" alt="어플 스크린샷" width="240" height="510">
-<img src="https://github.com/user-attachments/assets/bd4a0657-0395-4e70-bb4b-754757d8765a" alt="어플 스크린샷" width="240" height="510">
+<img src="https://github.com/user-attachments/assets/f4beb890-325a-4165-8743-de1d7e9581da" alt="어플 스크린샷" width="240" height="510">
+<img src="https://github.com/user-attachments/assets/96d61d07-79ba-4644-9f8f-b72782e2b43e" alt="어플 스크린샷" width="240" height="510">
+<img src="https://github.com/user-attachments/assets/0443ffe1-1026-4237-b4da-6c49a8d8f280" alt="어플 스크린샷" width="240" height="510">
+<img src="https://github.com/user-attachments/assets/9c0d2d9e-e5b8-4110-95e1-9a83e8056aa3" alt="어플 스크린샷" width="240" height="510">
+<img src="https://github.com/user-attachments/assets/2bcb0822-ff56-42bf-a370-77e3c195c0d3" alt="어플 스크린샷" width="240" height="510">
+<img src="https://github.com/user-attachments/assets/22a16159-e036-4c57-8ec6-820912b3ff40" alt="어플 스크린샷" width="240" height="510">
 
 ## 🖥️ 서비스 아키텍쳐
 
