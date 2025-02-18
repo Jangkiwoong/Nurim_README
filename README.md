@@ -7,7 +7,7 @@
 > 개발팀 노션 👉 https://midnight-mantis-c28.notion.site/c9e10b3922764e92b16d4defebc8721f
 
 
-![Image]([https://github.com/user-attachments/assets/11d3a8a5-b64b-4b92-bb66-c7e158aa3e76](https://github.com/user-attachments/assets/b19f7dad-53f9-4b37-a5e3-5b85e80d7ecf))
+![Image](https://github.com/user-attachments/assets/b19f7dad-53f9-4b37-a5e3-5b85e80d7ecf)
 
 
 ## 📖 Description
