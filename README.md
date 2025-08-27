@@ -62,7 +62,7 @@
 
 |Frontend|Backend|
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/9e504e27-68e1-42fc-969a-736ca1b74294" alt="front-end" width="120" height="150"> | <img src="https://github.com/user-attachments/assets/7750774f-371f-4a13-b19a-d8349503f69b" alt="back-end" width="120" height="150"> |
+| <img src="https://github.com/user-attachments/assets/9e504e27-68e1-42fc-969a-736ca1b74294" alt="front-end" width="120" height="150"> | <img src="" alt="back-end" width="120" height="150"> |
 |[김효환](https://github.com/Hy0hwan)|[장기웅](https://github.com/Jangkiwoong)|
 
 ## 📆 시기 
